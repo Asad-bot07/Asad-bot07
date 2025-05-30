@@ -1,4 +1,4 @@
-<h2 align="center">Hi everyone👋🏻! I am Asad Hussain pursuing my Bachelor's in Computer Application at IEM,kolkata</h2>
+<h1 align="center">Hi everyone👋🏻! I am Asad Hussain pursuing my Bachelor's in Computer Application at IEM,kolkata</h1>
 
 ###
 
@@ -37,26 +37,34 @@
 
 ###
 
+<h1 align="center">🌐Connect with me!</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/asad-hussain-765502319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/1298710342586597378" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord logo"  />
   </a>
   <a href="https://youtube.com/@asad__hussainn07?si=UCBdB0K_OI8HbgZn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/asad__hussainn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="instagram logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/asadhussain2408" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="hackerrank logo"  />
   </a>
   <a href="asadhussain2408@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="left">🎶 Coding is better with music! Here's what I'm listening to:</h2>
 
 ###
 

@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="center">My Stats📊📈</h1>
+<h1 align="center">💻🚀Tech Stacks</h1>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="center">💻🚀Tech Stacks</h1>
+<h1 align="center">My Stats📊📈</h1>
 
 ###
 

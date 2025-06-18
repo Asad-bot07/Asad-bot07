@@ -8,6 +8,10 @@
 
 ###
 
+<h1 align="center">My Stats📊📈</h1>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="0" />
@@ -24,18 +28,37 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="40" alt="intellij logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
 </div>
+
+###
+
+<h1 align="center">💻🚀Tech Stacks</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad-bot07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-bot07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asad-bot07&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asad-bot07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Asad-bot07&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Asad-bot07&theme=dark_lover&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad-bot07&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Asad-bot07/Asad-bot07/output/snake.svg" alt="Snake animation" />
+<h1 align="center">🌱Contribution Graph</h1>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad-bot07/Asad-bot07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asad-bot07/Asad-bot07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Asad-bot07/Asad-bot07/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 

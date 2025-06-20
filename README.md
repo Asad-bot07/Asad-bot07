@@ -3,6 +3,7 @@
 ###
 
 <h3 align="center">🎓BCA @IEM'28 | 💻Aspiring Full Stack Developer  | 🎮Gamer | 🎯Always Learning</h3>
+<hr>
 
 ###
 

@@ -1,4 +1,8 @@
-<h1 align="center">Hi everyone👋🏻! I am Asad Hussain pursuing my Bachelor's in Computer Application at IEM,kolkata</h1>
+<h1 align="center">Hi everyone👋🏻! I am Asad Hussain</h1>
+
+###
+
+<h3 align="center">🎓BCA @IEM'28 | 💻Aspiring Full Stack Developer  | 🎮Gamer | 🎯Always Learning</h3>
 
 ###
 

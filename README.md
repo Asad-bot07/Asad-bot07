@@ -1,4 +1,6 @@
-<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB!+I+am+Asad+Hussain)](https://git.io/typing-svg)</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Michroma&pause=1000&color=F7F7F7&width=435&lines=Hey+%F0%9F%91%8B%F0%9F%8F%BB!+I+am+Asad+Hussain" alt="Typing SVG">
+</h1>
 
 ###
 

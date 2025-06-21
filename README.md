@@ -46,7 +46,9 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" height="40" alt="intellij logo"  />
   <img width="0" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="0" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java logo"  />
+  <img width="0" />
   <img width="0" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="0" />
@@ -60,7 +62,6 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
 </div>
-###
 
 <h1 align="center">My Stats📊📈</h1>
 

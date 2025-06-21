@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB!+I+am+Asad+Hussain)](https://git.io/typing-svg)
-
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB!+I+am+Asad+Hussain)](https://git.io/typing-svg)
+<hr>
 
 <h3 align="center">🎓BCA @IEM'28 | 💻Aspiring Full Stack Developer  | 🎮Gamer | 🎯Always Learning</h3>
 <hr>

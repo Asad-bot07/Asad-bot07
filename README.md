@@ -131,7 +131,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Asad-bot07/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Asad-bot07.Asad-bot07&left_text=Stalkers"  />
 </div>
 
 ###

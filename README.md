@@ -4,15 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%F0%9F%8F%BB!+I+am+Asad+Hussain)](https://git.io/typing-svg)
   
 </div>
-
-
-<h3 align="center">🎓BCA @IEM'28 | 🎮Gamer | 🎯Always Learning</h3>
-<hr>
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 
 ###
 
 <div align="center">
-  <img height="200" src="./Assests/boy2.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
 </div>
 
 ###

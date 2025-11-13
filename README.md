@@ -7,7 +7,7 @@ If I get an idea, I usually build it, break it, fix it, and ship it.
 My main tech stack is **React, TypeScript, JavaScript, Tailwind, Framer Motion and GSAP**.  
 My favorite tools are **VS Code, Git, GitHub, and Vercel**.
 
-Some of my recent projects includes my personal portfolio **[Portfolio](https://asadtechdev.vercel.app/)**, a **[Currency Converter](https://asad-bot07.github.io/Currency-Converter/)**, a **[Password Generator](https://asad-bot07.github.io/Password-Generator/)**, and UI animation experiments with **Motion and GSAP**.
+Some of my recent projects includes my personal **[Portfolio](https://asadtechdev.vercel.app/)**, a **[Currency Converter](https://asad-bot07.github.io/Currency-Converter/)**, a **[Password Generator](https://asad-bot07.github.io/Password-Generator/)**, and UI animation experiments with **Motion and GSAP**.
 
 You can reach me **[here](techie.asad.dev@gmail.com)** anytime.
 

@@ -11,6 +11,11 @@ Some of my recent projects includes my personal **[Portfolio](https://asadtechde
 
 You can reach me **[here](mailto:techie.asad.dev@gmail.com)** anytime.
 
+<p align="center">
+ <img src="assets/space-shooter.gif" />
+</p>
+
+
 #### Fun Facts:
 
 - I build small projects when I’m bored and by small, I mean fun, brain-rot ideas like **[Grimtok](https://grim-tok.vercel.app/)**
